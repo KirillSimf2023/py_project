@@ -3,4 +3,4 @@ def my_plus(a,b):
     return result
 
 def my_minus(a, b):
-    return a-b
+    return int(a-b)
